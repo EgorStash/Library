@@ -1,0 +1,7 @@
+Book, Dekster, Morgan Freeman, 100, 2011, Casual 16, Low
+Magazine, Miss Poppins, Samuel L Djecson, 8, 2010, Casual 16, Child Stories Inc.
+Book, Happy Tomorrow, Vinsent, 80, 2011, Casual 20, Low
+Newspaper, Happy Today, Morgan Freeman, 20, 2017, Casual 20, 2000
+Magazine, Happy, Morgan Freeman, 110, 2001, TimesNewRoman 20, Low level investment
+
+ 
